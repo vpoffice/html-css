@@ -22,4 +22,4 @@ ex018 - Fontes com Google Fonts e Fontes Externas
 ex019 - Seletor Personalizados
 ex020 - Pseudo-Classes
 ex021 - Modelo de Caixas
-
+ex022 - Fundos de imagens
