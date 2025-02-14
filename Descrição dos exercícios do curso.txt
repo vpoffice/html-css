@@ -1,0 +1,25 @@
+Descrição dos exercícios do curso
+
+ex001 - documento HTML
+ex002 - Adicionar emojis e símbolos especiais
+ex003 - Imagens internas e externas
+ex004 - Adicionar Ícone
+ex005 - Colocando emojis
+ex006 - Hierarquia de títulos(h1, h2, h3...)
+ex007 - Exemplo de semântica
+ex008 - Formatação de texto
+ex008b - Formatação de texto
+ex009- Listas
+ex010 - Trabalhando com links
+ex011 - Imagem dinâmica e áudio
+ex012 - Inserindo Vídeos
+ex013 - Estilos Inline
+ex014 - Estilos Locais e Internos
+ex015 - Estilos Externos
+ex016 - Cores em CSS
+ex017 - Fontes em CSS
+ex018 - Fontes com Google Fonts e Fontes Externas
+ex019 - Seletor Personalizados
+ex020 - Pseudo-Classes
+ex021 - Modelo de Caixas
+

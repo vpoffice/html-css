@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+            background-color: dimgray;
+        }
+
+        header{
+            background-color: rgb(202, 202, 201);
+            text-align: center;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+
+        nav {
+            background-color: darkslategray;            
+            padding: 3px;            
+            box-shadow: 1px 3px 3px 1px black;
+        }
+
+        nav > a {
+            color: antiquewhite;
+            text-decoration: none;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+
+        nav > a:hover{
+            text-decoration: underline;
+            padding: 3px;
+            box-shadow: 1px 1px 1px black;
+        }
+
+        main{
+            background-color: rgba(205, 214, 214, 0.479);
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+
+        aside{
+            background-color: rgba(0, 0, 0, 0.37);
+            color: antiquewhite;
+            padding: 0.015px;
+        }
+
+        footer{
+            background-color: black;
+            color: rgb(146, 145, 135);
+            text-align: center;
+            padding: 1.5px;
+            margin: 0px;
+        }
+
+        footer > p {
+            margin: 0px;
+        }
+
+        div#bola {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: aliceblue;
+            border-radius: 50px;
+            text-align: center;
+            font-weight: bolder;
+            font-size: 1.5em;
+
+        }
+
+        div#bola > p {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav>
+            <a href="">Glória</a>
+            <a href="">Jesus</a>
+            <a href="">Deus</a>
+            <a href="">Espíto Santo</a>
+            <a href="">Honra</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Notícia sobre o Brasil</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident dicta officiis praesentium! Officia eveniet voluptatibus libero perferendis. Eum, illum temporibus praesentium ut consequuntur dolor, officiis nihil doloremque excepturi nam quisquam.</p>
+                <aside>
+                    <p>Artigo escrito por Lorem HTML5</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido por Victor Pereira.</p>
+    </footer>
+    <div id="bola">
+        <p>BOLA</p>
+    </div>
+</body>
+</html>

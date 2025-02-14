@@ -1,0 +1,6 @@
+Grade do curso HTML5 e CSS3 em Módulos
+
+MÓDULO 1 - Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títulos, ligações, multimídia, estilos.
+
+MÓDULO 2 - Fundamentos o Design, psicologia das cores, tipografia, elementos CSS, modelos de caixas, wireframe, responsividade.
+

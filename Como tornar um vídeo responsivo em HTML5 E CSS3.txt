@@ -1,0 +1,22 @@
+Como tornar um vídeo responsivo em HTML
+
+1. Envelopar uma div no iframe
+2. colocar uma id ou uma class(qual se encaixar melhor) na div, para ser identificado especificamente. Ex: id = "vídeo"
+3. Criar uma caixa para o vídeo. Exemplo:
+	div.video {
+		background-color:
+		margin:
+		padding:
+		padding-bottom: (medida em %)
+		position: relative
+	}
+Obs: Precisa ser nessa respectiva ordem. Com a medida
+
+4. Por ser um iframe e já ser um vídeo com código extraído do youtube, não temos muito poder sobre ele. Porém, conseguimos deixar de maneira responsiva. Da seguinte maneira:
+	div.video > iframe {
+		position: absolute;
+		top:
+		left:
+		width:
+		height:	
+	}

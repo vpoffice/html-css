@@ -1,0 +1,5 @@
+Passo a passo pra criar um site:
+
+1. Layout
+2. Paleta do site
+3. Fontes a ser usadas no projeto
